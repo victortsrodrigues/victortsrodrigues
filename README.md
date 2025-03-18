@@ -23,7 +23,8 @@ Hoje, combino essa experiência com minha paixão por tecnologia e programação
 Alguns dos projetos que desenvolvi ou que estou contribuindo:
 
 - [TrackIt](https://github.com/victortsrodrigues/TrackIt) – App para gestão de tarefas pessoais! React
-- [Vai de Milhas](https://github.com/victortsrodrigues/vai-de-milhas) – App para uma agência de viagens oferecer serviço de milhas para os clientes! Typesript, Prisma, Express, Jest, Supertest.
+- [Boardcamp](https://github.com/victortsrodrigues/boardcamp-java) – Sistema back-end de gestão de uma locadora de jogos! Java, Spring Boot.
+- [DrivenPass](https://github.com/victortsrodrigues/drivenpass) –  Sistema back-end de gerenciamento de senhas pessoais! TypeScript, Express, PrismaORM, PostgresSQL.
 - [TEMFC](https://github.com/victortsrodrigues/tem-fc) – Projeto que automatiza o processo de download, processamento e análise de dados de profissionais de saúde do CNES. Verifica a elegibilidade do profissional para realizar uma prova de especialização e gera relatórios com base nos critérios especificados no edital. Este projeto fez com que um trabalho de 4h pudesse ser feito em 20min. Tecnologias utilizadas: Python 3.x, SQLite3, Chrome WebDriver.
 
 Você pode conferir meus repositórios para mais detalhes!
