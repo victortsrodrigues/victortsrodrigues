@@ -15,7 +15,7 @@ Hoje, combino essa experiência com minha paixão por tecnologia e programação
 
 - **Linguagens:** Typescript, Java, Python, JavaScript.
 - **Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Prisma ORM, Supertest.
-- **Bancos de Dados:** PostgreSQL, MongoDB, AWS.
+- **Bancos de Dados:** PostgreSQL, MongoDB, S3.
 - **Ferramentas:** Git, Docker, CI/CD, Jest, Express.
 
 ## Projetos
