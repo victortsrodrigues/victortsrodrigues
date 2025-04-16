@@ -16,16 +16,17 @@ Hoje, combino essa experiência com minha paixão por tecnologia e programação
 - **Linguagens:** Typescript, Java, Python, JavaScript.
 - **Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Prisma ORM, Supertest.
 - **Bancos de Dados:** PostgreSQL, MongoDB, S3.
-- **Ferramentas:** Git, Docker, CI/CD, Jest, Express.
+- **Ferramentas:** Git, Docker, CI/CD, Jest, Express, Flask.
 
 ## Projetos
 
 Alguns dos projetos que desenvolvi ou que estou contribuindo:
 
-- [TrackIt](https://github.com/victortsrodrigues/TrackIt) – App para gestão de tarefas pessoais! React
+- [TrackIt](https://github.com/victortsrodrigues/TrackIt) – App para gestão de tarefas pessoais! React + Vite
 - [Boardcamp](https://github.com/victortsrodrigues/boardcamp-java) – Sistema back-end de gestão de uma locadora de jogos! Java, Spring Boot.
-- [DrivenPass](https://github.com/victortsrodrigues/drivenpass) –  Sistema back-end de gerenciamento de senhas pessoais! TypeScript, Express, PrismaORM, PostgresSQL.
-- [TEMFC](https://github.com/victortsrodrigues/TEMFC) – Projeto que automatiza o processo de download, processamento e análise de dados de profissionais de saúde do CNES. Verifica a elegibilidade do profissional para realizar uma prova de especialização e gera relatórios com base nos critérios especificados no edital. Este projeto fez com que um trabalho de 4h pudesse ser feito em 20min. Tecnologias utilizadas: Python 3.x, SQLite3, Chrome WebDriver.
+- [DrivenPass](https://github.com/victortsrodrigues/drivenpass) –  Sistema back-end de gerenciamento de senhas pessoais! TypeScript, Express, PrismaORM, Postgres.
+- [TEMFC API](https://github.com/victortsrodrigues/TEMFC-backend) – API para verificar a elegibilidade de profissionais de saúde para o exame TEMFC, usando coleta de dados do CNES, validação automática e resposta em tempo real via SSE! Python, Flask, Postgres, Web Scraping.
+- [TEMFC Checker](https://github.com/victortsrodrigues/TEMFC-frontend) – Website que permite que profissionais médicos verificarem sua elegibilidade para o exame TEMFC por meio de uma interface rápica, fácil de usar e orientada por SSE! React + Vite.
 
 Você pode conferir meus repositórios para mais detalhes!
 
