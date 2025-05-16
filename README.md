@@ -2,8 +2,7 @@
 
 Bem-vindo(a) ao meu GitHub!
 
-Sabe aquela sensação de ver uma ideia sair do papel e se tornar algo real? Durante minha trajetória na engenharia, eu me encantava ao ver projetos ganharem forma e se tornarem estruturas concretas e operacionais.
-Hoje, combino essa experiência com minha paixão por tecnologia e programação, fazendo de cada linha de código um passo para transformar ideias em soluções práticas 💡💻.
+Transformando ideias em código! 💡💻.
 
 ## Sobre Mim
 
@@ -15,8 +14,8 @@ Hoje, combino essa experiência com minha paixão por tecnologia e programação
 
 - **Linguagens:** Typescript, Java, Python, JavaScript.
 - **Frameworks/Bibliotecas:** React, Node.js, Spring Boot, Prisma ORM, Supertest.
-- **Bancos de Dados:** PostgreSQL, MongoDB, S3.
-- **Ferramentas:** Git, Docker, CI/CD, Jest, Express, Flask.
+- **Bancos de Dados:** PostgreSQL, MongoDB, Redis.
+- **Ferramentas:** Git, Docker, CI/CD, Jest, Express, FastAPI, Flask.
 
 ## Projetos
 
@@ -35,7 +34,7 @@ Você pode conferir meus repositórios para mais detalhes!
 Estou sempre aberto(a) a novas oportunidades e parcerias. Você pode me encontrar em:
 
 - **Email:** [victadeu@gmail.com](mailto:victadeu@gmail.com)
-- **LinkedIn:** [Victor Rodrigues](https://www.linkedin.com/in/victortadeurodrigues)
+- **LinkedIn:** [Victor Rodrigues](https://www.linkedin.com/in/victortsrodrigues/)
 
 ---
 
