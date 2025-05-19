@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-<img alt="We Can Code This Text" align="right" src="./we-can-code-this.gif" width=20%>
+<img alt="We Can Code This Text" align="right" src="./we-can-code-this.gif" width=25%>
 
 - 🔭 Programado focado em criar aplicações que solucionem problemas reais e agregam valor à negócios.
 - 🌱 Recentemente conclui o curso de Desenvolvimento Web Full Stack pela Driven Education.
