@@ -4,6 +4,8 @@
 
 ### 🚀 Sobre Mim
 
+<img alt="We Can Code This Text" align="right" src="https://github.com/renatainacio/renatainacio/blob/main/we-can-code-this.gif" width=35%>
+
 - 🔭 Programado focado em criar aplicações que solucionem problemas reais e agregam valor à negócios.
 - 🌱 Recentemente conclui o curso de Desenvolvimento Web Full Stack pela Driven Education.
 - 📲 Atualmente estou desenvolvendo um software ERP Web.
