@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Victor Rodrigues
+## 👋 Olá, seja bem-vindo!
 
 > **Transformando ideias em código.**
 
@@ -62,10 +62,10 @@ Aplicativo para gestão de tarefas pessoais, focado em produtividade diária.
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 😎 Só porque estatísticas do GitHub são legais!
 
 <div align="center">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victortsrodrigues&show_icons=true&theme=radical&hide_border=true&count_private=true" /> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victortsrodrigues&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortsrodrigues&layout=compact&theme=radical&hide_border=true" />
 </div>
 
