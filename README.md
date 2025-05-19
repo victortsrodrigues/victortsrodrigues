@@ -92,6 +92,14 @@ Procuro posições em desenvolvimento Full Stack, back-end ou arquiteturas de mi
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victortsrodrigues/victortsrodrigues/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victortsrodrigues/victortsrodrigues/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/victortsrodrigues/victortsrodrigues/output/github-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   <em>“O código perfeito é aquele que entrega valor, é legível e fácil de evoluir.”</em>
 </p>
