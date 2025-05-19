@@ -10,7 +10,7 @@
 ## 🚀 Sobre Mim
 
 - 🔭 **Atual:** Atualmente trabalho em projetos Full Stack.
-- 🌱 **Aprendizado Contínuo:** Sempre me atualizando em novas linguagens, frameworks e boas práticas (Clean Code, TDD, CI/CD).
+- 🌱 **Aprendizado Contínuo:** Sempre me atualizando em novas linguagens, frameworks e boas práticas.
 - 📈 **Foco em Resultados:** Paixão por métricas e resultados mensuráveis — busco soluções que tragam ROI e satisfação do usuário final.
 - 🤝 **Comunicação & Colaboração:** Valorizo metodologia ágil, code reviews construtivos e parcerias entre times multifuncionais.
 
